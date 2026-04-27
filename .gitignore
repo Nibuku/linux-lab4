@@ -1,0 +1,16 @@
+inventory.ini
+inventory.yml
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*.pub
+*.token
+*.pass*~
+.DS_Store
+.vscode/
+__pycache__/
+*.swp
+*.swo
+*.retry
+
